@@ -11,4 +11,6 @@ Game: https://ancient-tor-88496.herokuapp.com/
 
 You can validade my project by looking at the 'credits' tab, since my repository is private. The full source-code has grown to 65k lines of code but I have plans to release the game in the future, so that is why it is private.
 
+It uses JavaScript in the client and server and the Node.js for socket communication, while the database used was the MongoDB. It is allowed to have 1 character per account in the DB, but I shall add 2 more character per account in the near future. The frontend was developed using a mixture of pure JavaScript and jQuerry and jQuerryUI, using static HTML and CSS only for the basic web configuration.
+
 Any suggestions or feedback? Please let me know!
