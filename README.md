@@ -1,5 +1,5 @@
 # MyOnlineRPG-IntroPage
-This project started in 2017 as an idea to learn how socket communications between client and server works, and enjoy the learning process by creating something pleasant. It still has lots of work to be done, but you can already have some fun with friends once you get to know how it works.
+This project started in 2017 as a way to learn how socket communications between client and server works, and enjoy the learning process by creating something pleasant. That is why I created an online web-based medieval RPG game. It still has lots of work to be done, but you can already have some fun with friends once you get to know how it works.
 
 1st page: The login page! If you click on the link below you will be redirected to a login page. For updates in the communication between Mongo DB atlas and the server, the DB is switched off temporarily. So you can fill any credentials to get to the second page since the DB is offline.
 
