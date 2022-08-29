@@ -2,7 +2,7 @@
 This project started in 2017 as a way to learn how socket communications between client and server works, and enjoy the learning process by creating something pleasant. That is why I created an online web-based medieval RPG game. It still has lots of work to be done, but you can already have some fun with friends once you get to know how it works.
 
 1st step: The login page! If you click on the link below you will be redirected to a login page. For updates in the communication between Mongo DB atlas and the server, the DB is switched off temporarily. So you can fill any credentials to get to the second page since the DB is offline.
-!['login'](login.png | width=100)
+<img src="login.png" height="60" width="60">
 
 2nd step: After the login you will be redirected to a place to create your own character. Set its name, race and class and you will be all set to play in the medieval fantasy world.
 !['accounting'](accounting.png | width=100)
