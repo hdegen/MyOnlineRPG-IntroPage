@@ -7,9 +7,10 @@ This project started in 2017 as a way to learn how socket communications between
 2nd step: After the login you will be redirected to a place to create your own character. Set its name, race and class and you will be all set to play in the medieval fantasy world.
 
 3rd step: When in the world game, you will be presented with a quick-starting guide. Take a minute just to get used to the movements and how everything works. Don't forget to buy some equipment from the NPC's before entering any portal. Some of the monsters are waiting for you on the other side of the portal of the first map. If you have a friend, call him to play with you, exploring, trading items and fighting together.
+
 !['init'](init.png)
 
-## Game
+## Game link
 Link: https://ancient-tor-88496.herokuapp.com/
 
 !['gameplay'](gameplay.png)
