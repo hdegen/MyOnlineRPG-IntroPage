@@ -10,7 +10,8 @@ This project started in 2017 as a way to learn how socket communications between
 !['init'](init.png)
 
 ## Game
-https://ancient-tor-88496.herokuapp.com/
+Link: https://ancient-tor-88496.herokuapp.com/
+
 !['gameplay'](gameplay.png)
 
 You can validade my project by looking at the 'credits' tab, since my repository is private. The full source-code has grown to 65k lines of code but I have plans to release the game in the future, so that is why it is private.
